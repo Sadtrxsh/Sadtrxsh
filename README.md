@@ -1,4 +1,8 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Sadtrxsh.visitor-badge)
+
+- 😄 Pronouns: He/Him/They
+- 📫 How to reach me: sadtrash@l337.cc
 
 <!--
 **Sadtrxsh/Sadtrxsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Sadtrxsh's github stats](https://github-readme-stats.vercel.app/api?username=Sadtrxsh&amp;show_icons=true&theme=dark)
+
