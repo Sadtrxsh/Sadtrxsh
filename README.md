@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sadtrxsh.visitor-badge)
 
-- 😄 Pronouns: He/Him/They
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: sadtrash@l337.cc
 
 <!--
