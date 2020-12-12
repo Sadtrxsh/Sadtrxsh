@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning C++
 - 💬 Ask me about Nintendo game modding
 
+DISCLAMER:
+All of my programs and code are for strictly educational purposes and are not to be used unethically
 <!--
 **Sadtrxsh/Sadtrxsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
