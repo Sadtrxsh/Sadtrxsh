@@ -4,7 +4,7 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: sadtrash@l337.cc
 - 🌱 I’m currently studying C++ and Machine Learning
-- 💬 Ask me about Nintendo game modding
+- 💬 Favorite Language: Python
 
 DISCLAMER:
 All of my programs and code are for strictly educational purposes and are not to be used unethically
