@@ -3,6 +3,10 @@
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: sadtrash@l337.cc
+- ⚡ Fun fact: Vodka + Code = I forgot how it works
+- ⚡ Favorite Pokemon: Shinx
+- 🌱 I’m currently learning C++
+- 💬 Ask me about Nintendo game modding
 
 <!--
 **Sadtrxsh/Sadtrxsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
