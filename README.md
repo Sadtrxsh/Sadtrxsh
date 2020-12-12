@@ -3,7 +3,6 @@
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: sadtrash@l337.cc
-- ⚡ Fun fact: Vodka + Code = I forgot how it works, But it works! :D
 - ⚡ Favorite Pokemon: Shinx
 - 🌱 I’m currently studying C++ and Machine Learning
 - 💬 Ask me about Nintendo game modding
